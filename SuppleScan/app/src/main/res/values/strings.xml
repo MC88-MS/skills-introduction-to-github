@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SuppleScan</string>
+    <string name="scan_hint">Inquadra il barcode dell\'integratore</string>
+    <string name="permission_camera">Accesso fotocamera necessario per la scansione</string>
+    <string name="score_excellent">Eccellente</string>
+    <string name="score_good">Buono</string>
+    <string name="score_mediocre">Mediocre</string>
+    <string name="score_avoid">Da evitare</string>
+</resources>
